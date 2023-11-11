@@ -3,7 +3,7 @@ Python "Proof-of-Concept" game
 
 ## Running the Game
   Use a `Mac` Terminal if possible; it uses `Unix` commands.
-  Some cmd's dont work properly when the game is run in an editor. It is built to run in terminal.
+  Some commands dont work properly when the game is run in an editor. It is built to run in terminal.
   
   To install the requierd packages navigate to the terminal_hack directory (folder) and use
 
@@ -19,7 +19,7 @@ Now run the game
     python3 terminal_hack.py
 
 ## Playing the Game
-  The game uses the `TAB` key to autocomplete commands.
+  The game uses the `TAB` key to autocomplete commands. Also use `UP Arrow` and `DOWN Arrow` to navigate command history.
 
   If you dont like the tab popup just type this in the game
 
